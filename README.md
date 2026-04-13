@@ -42,6 +42,12 @@
 - [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)，如果会使用 AI 和共享系统参数。
 - [批量订阅](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)，如果发送前要先把账号带入目标环境。
 
+## 这个触达流程常见的扩展方向
+
+- [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)，如果私信只是更大增长链路的一部分。
+- [任务管理器](https://github.com/Deskgram-2/telegram-task-manager-deskgram-zh)，如果要把发送、失败和节奏放在统一控制层里。
+- [神经评论](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-zh)，如果私信只是更大互动系统中的一个环节。
+
 ## 界面亮点
 
 ### 主界面
@@ -85,6 +91,9 @@
 - [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)
 - [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)
 - [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)
+- [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)
+- [任务管理器](https://github.com/Deskgram-2/telegram-task-manager-deskgram-zh)
+- [神经评论](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-zh)
 
 ## FAQ
 

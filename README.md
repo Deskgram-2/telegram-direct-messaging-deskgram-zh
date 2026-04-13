@@ -1,5 +1,7 @@
 # Deskgram 2 私信群发
 
+![Direct Messaging Main](assets/screenshots/spam-pm__main__zh.png)
+
 私信群发是 Deskgram 2 中用于 Telegram 私聊触达的模块。它把消息构建、发送控制、限额、延迟、自动回复、AI 改写和执行管理整合到同一个界面中。
 
 [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
@@ -31,6 +33,24 @@
 3. 配置线程、限额和延迟。
 4. 需要时启用 AI 或自动回复。
 5. 分配账号并启动流程。
+
+## 界面亮点
+
+### 主界面
+
+![Direct Messaging Main Screen](assets/screenshots/spam-pm__main__zh.png)
+
+### 发送选项
+
+![Send Options](assets/screenshots/spam-pm__send-options__zh.png)
+
+### 自动回复
+
+![Autoresponder](assets/screenshots/spam-pm__autoresponder__zh.png)
+
+### AI 设置
+
+![AI Settings](assets/screenshots/spam-pm__ai-tab__zh.png)
 
 ## 适合在什么情况下使用
 

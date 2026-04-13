@@ -34,6 +34,14 @@
 4. 需要时启用 AI 或自动回复。
 5. 分配账号并启动流程。
 
+## 这个流程适合连接哪些模块
+
+- [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)，如果接收者基础还没有准备好。
+- [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)，如果需要先整理账号网格。
+- [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)，如果触达依赖稳定的代理基础设施。
+- [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)，如果会使用 AI 和共享系统参数。
+- [批量订阅](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)，如果发送前要先把账号带入目标环境。
+
 ## 界面亮点
 
 ### 主界面
@@ -74,6 +82,9 @@
 - [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh)
 - [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)
 - [批量订阅](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)
+- [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)
+- [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)
+- [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)
 
 ## FAQ
 

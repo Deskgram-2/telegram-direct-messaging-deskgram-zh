@@ -83,6 +83,29 @@
 | 跟进回复容易遗漏 | 自动回复可以继续流程 |
 | 文案容易重复 | AI 帮助改写和变化内容 |
 
+## 该选哪个：私信群发还是神经私信
+
+| 如果你的目标是 | 更适合哪个 |
+|---|---|
+| 执行结构清晰、可控的批量触达 | [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh) |
+| 在私聊里做更强的 AI 对话层 | [神经私信](https://github.com/Deskgram-2/telegram-neuro-mailing-deskgram) |
+| 先覆盖整批受众，再继续深入沟通 | 先私信群发，再神经私信 |
+| 把可控执行和 AI 跟进结合起来 | 两个模块一起使用 |
+
+## 场景 FAQ
+
+### 什么时候用宽基础，什么时候用更热的基础？
+
+来自 [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh) 的宽基础适合做规模化触达。来自评论或讨论的更热基础更适合重视回复质量和后续互动的场景。
+
+### 什么时候值得开启 AI？
+
+当你需要更强的文案变化、更柔和的表达方式，或者要根据不同受众段做内容适配时，AI 更值得开启。若场景简单且文案非常稳定，普通消息就够用。
+
+### 自动回复什么时候是可选的，什么时候是必须的？
+
+如果流程只需要完成第一次触达，自动回复可以不启用。如果目标包含 follow-up、接住用户回复并继续推进沟通，它就应该从一开始纳入流程。
+
 ## 相关仓库
 
 - [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh)

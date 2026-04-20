@@ -1,15 +1,15 @@
-# Deskgram 2 私信群发
+﻿# Deskgram 2 私信群发
 
 ![Direct Messaging Main](assets/screenshots/spam-pm__main__zh.png)
 
 私信群发是 Deskgram 2 中用于 Telegram 私聊触达的模块。它把消息构建、发送控制、限额、延迟、自动回复、AI 改写和执行管理整合到同一个界面中。
 
-[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=cn)
 ## 交互式 Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/app-demo/functions/spam_pm)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fspam_pm&lang=cn)
 
-在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/app-demo/functions/spam_pm)
+在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fspam_pm&lang=cn)
 
 如果你想先判断这个模块是否适合当前场景，可以先打开 web preview，在浏览器里看看界面结构，再决定是否继续安装和配置。
 
@@ -141,3 +141,4 @@
 ### 可以处理后续回复吗？
 
 可以。自动回复就是私信群发之后很自然的下一步。
+
